@@ -11,4 +11,4 @@ Here is a video of my project: https://www.youtube.com/watch?v=aQgYoFrk2PI&t=5s
 
 You can ask BudgetYourTrip for an API KEY.
 
-VBA-JSON module must be imported into VBA to run the code. Please follow the tutorial on their github for more information.
+VBA-JSON module must be imported into VBA to run the code. Please follow the youtube tutorial on their github repo for more information.
